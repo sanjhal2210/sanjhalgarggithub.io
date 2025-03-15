@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Developers+👋;+I'm+Sachin+Arora;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Developers+👋;+I'm+Sanjhal+Garg;" />
 </h1>
 
-<h2 align = "center"><i>A Passionate <b>Web Developer</b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from India 🇮🇳
+<h2 align = "center"><i>A Passionate <b>Data Analyst</b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from India 🇮🇳
 </em></i></p>
 </h2>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🏫 Currently I'm pursuing **MCA** from **Vellore Institute of Technology**.
+ 🏫 Currently I'm pursuing **BTECH** from **SRM**.
 
  🔭 **Learning & making my way through :** Full-Stack Development | Open-Source | MERN | NextJs | Javascript | Web Development | RestFulAPI's :zap:
 
